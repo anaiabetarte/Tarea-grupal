@@ -12,6 +12,7 @@ body {
 
 h1 {
     font-size: 45px;
+    font-family:'Times New Roman', Times, serif;
 }
 
 p {
@@ -27,3 +28,7 @@ td {
 th {
     text-align: left;
 }
+
+h2 {
+    background-color: aquamarine;
+    }
